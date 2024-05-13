@@ -26,8 +26,8 @@ The project was developed by the following members:
 - **Reports and Queries:** Generate reports and perform queries for data analysis and decision-making.
 
 ## Installation
-1. Open the `main.sql` file located in the `Database Scripts` directory.
-2. Update the `base_path` variable in the `main.sql` file to point to the base path where your SQL files are located. For example:
+1. Open the `main.sql` file located in the project directory.
+2. Update the `base_path` variable in the `main.sql` file to point to the base path where the project files are located. For example:
    ```sql
    -- Define the base path for SQL files
    DEFINE base_path = 'F:/Downloads/accommodation-management-system'
